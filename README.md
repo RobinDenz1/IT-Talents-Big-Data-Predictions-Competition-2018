@@ -42,6 +42,7 @@ To run the jupyter notebook, open jupyter with a command prompt and click on the
 Example in Windows PowerShell:
 
 cd my_file_path
+
 jupyter notebook
 
 # Prerequisites
@@ -52,14 +53,23 @@ Any official python version may be downloaded here: https://www.python.org/downl
 In addition, you will need to install the following packages:
 
 jupyter
+
 scikit-learn
+
 scipy
+
 numpy
+
 calendar
+
 warnings
+
 pandas
+
 seaborn
+
 matplotlib
+
 statsmodels
 
 You can install those using the pip install method. For more information, please refer to their respective official documentation.
