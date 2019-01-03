@@ -10,14 +10,23 @@ The code in this respiratory is my take on that challenge.
 # Files:
 
 Denz_Analysis.ipynb -- This is the jupyter notebook containing the complete analysis.
+
 Denz_Analysis.py    -- This is a python script version of the analysis. It contains nearly the same code, but it's less "clean".
+
 donut_outcome_percentages.png -- Graph of outcome percentages before removing unfinished games.
+
 donut_outcome_percentages2.png -- Graph of outcome percentages after removing unfinished games.
+
 target_correlations.png -- Graph of correlations with the target variable.
+
 previous_win_percent_in_matchup.png -- Lowess regression of previous win percentage and target variable.
+
 previous_win_percentage_difference.png -- Lowess regression of previous win percentages difference and target variable.
+
 feature_importances_base.png -- Feature importances plot of the simplest random forest model.
+
 feature_importances_final.png -- Feature importances plot of the final random forest model.
+
 correlation_heatmap.png -- Heatmap plot of all variable correlations.
 
 Cause of copyright reasons I may not upload the datset here. You may however download it for free on the competitions official website (https://www.it-talents.de/foerderung/code-competition/code-competition-12-2018).
